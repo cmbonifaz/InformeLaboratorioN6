@@ -8,7 +8,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Docente:** Ing. Darwin Alulema
 
-**Tema:** TEOREMA DE NORTON
+**Tema:** TEOREMA DE MAXIMA TRANSFERENCIA DE POTENCIA
 
 #### 1. OBJETIVOS 
 
