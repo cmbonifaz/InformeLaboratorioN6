@@ -84,11 +84,16 @@ Usaremos la Formula:
 ![10](https://user-images.githubusercontent.com/84586968/127574970-0f9a38f5-174c-46f8-a14c-44188a966cb7.PNG)
 ![4700](https://user-images.githubusercontent.com/84586968/127574948-f5f9c2d1-f28e-4500-9e1f-dfefd3a91b33.PNG)
 
+**Calculo del Error**
+
+![error](https://user-images.githubusercontent.com/84586968/127574951-d0569612-20af-4dce-8c0f-1560e2dd9b76.PNG)
+
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES 
 
 •	El reducir un circuito complejo a una fuente y resistencia de Thévenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
+
 •	Al medir todas las potencias mediante las resistencias propuestas se concluyo facilmente que 1kΩ es con quien se obtiene la maxima transferencia de potencia.
 
 
