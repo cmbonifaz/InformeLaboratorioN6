@@ -39,9 +39,15 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.5 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
+Si porque el teorema nos dice que la resistencia la cual estamos determinando su potencia debe ser igual ala resistencia de thevenin en este caso la resistencia de 1kΩ es muy aproximado a 1.2kΩ por lo que si se cumple el teorema.
+
 3.6 ¿Cuál fue la potencia máxima en RL?
 
+Potencia maxima es de 46.51 mW
+
 3.7 ¿Para qué valor de RL se obtiene la MTP?
+
+Para la resistencia de 1kΩ
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 Calcularemos La potencia de cada Resistencia.
