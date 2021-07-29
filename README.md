@@ -23,17 +23,25 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-3.1 Arme el circuito que se muestra en la figura 6.1
+3.1 Material y Equipo requerido
 
-3.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
+![Materiales](https://user-images.githubusercontent.com/84586968/127574955-e0f767f8-0188-474c-b286-18ba7d8b5dcb.PNG)
 
-3.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+3.2 Arme el circuito que se muestra en la figura 6.1
 
-3.4 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+![Circuito](https://user-images.githubusercontent.com/84586968/127574957-76644fd9-b2c7-4f0b-bbc2-93e0e8b8937c.PNG)
 
-3.5 ¿Cuál fue la potencia máxima en RL?
+3.3 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
-3.6 ¿Para qué valor de RL se obtiene la MTP?
+3.4 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
+
+![tabla](https://user-images.githubusercontent.com/84586968/127574953-4f88d659-8047-4863-b21e-b0c9671773b2.PNG)
+
+3.5 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+3.6 ¿Cuál fue la potencia máxima en RL?
+
+3.7 ¿Para qué valor de RL se obtiene la MTP?
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 Calcularemos La potencia de cada Resistencia.
