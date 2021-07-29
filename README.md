@@ -14,7 +14,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 •	El presente laboratorio tiene como objetivo analizar y verificar en forma experimental el teorema propuesto, comprobando en forma analítica y en forma gráfica, la importancia de la eficiencia a partir de los datos tomados en el laboratorio.
 
-• Determinar la maxima transferencia de Potencia mediante 10 resistencia propuestas.
+• Determinar la maxima transferencia de Potencia probando con 10 resistencia propuestas.
 
 #### 2. MARCO TEÓRICO 
 
