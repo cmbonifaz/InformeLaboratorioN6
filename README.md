@@ -53,6 +53,8 @@ Para la resistencia de 1kΩ
 Calcularemos La potencia de cada Resistencia.
 
 Usaremos la Formula:
+![formula](https://user-images.githubusercontent.com/84586968/127576434-17243910-a258-486f-9473-6e69c0e00c48.PNG)
+
 
 ![1](https://user-images.githubusercontent.com/84586968/127574971-32188ba7-37af-4b7b-80e9-bd6b94ad0505.PNG)
 ![220](https://user-images.githubusercontent.com/84586968/127574947-4aee628f-9659-4a65-8216-0c2bacc06f29.PNG)
