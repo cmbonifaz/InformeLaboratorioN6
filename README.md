@@ -31,7 +31,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 ![Circuito](https://user-images.githubusercontent.com/84586968/127574957-76644fd9-b2c7-4f0b-bbc2-93e0e8b8937c.PNG)
 
-3.3 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
+3.3 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla. Anote los resultados medidos.
 
 3.4 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
 
