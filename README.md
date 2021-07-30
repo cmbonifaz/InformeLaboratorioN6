@@ -93,6 +93,8 @@ Usaremos la Formula:
 
 #### 5. VIDEO
 
+[Simulación de Circuito - Laboratorio N°6](https://youtu.be/SFSP9qpPOiE "Simulación de Circuito - Laboratorio N°6")
+
 #### 6. CONCLUSIONES 
 
 •	El reducir un circuito complejo a una fuente y resistencia de Thévenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
