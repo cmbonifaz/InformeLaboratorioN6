@@ -12,9 +12,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 1. OBJETIVOS 
 
-•	El presente laboratorio tiene como objetivo analizar y verificar en forma experimental el teorema propuesto, comprobando en forma analítica y en forma gráfica, la importancia de la eficiencia a partir de los datos tomados en el laboratorio.
+•	El presente laboratorio tiene como objetivo analizar y verificar en forma experimental el teorema propuesto, comprobando en forma analítica, la importancia de la eficiencia a partir de los datos tomados en el laboratorio.
 
 • Determinar la maxima transferencia de Potencia probando con 10 resistencia propuestas.
+
+• Analizar  el  efecto  de  la  variación  de  la  carga  en  la  potencia  entregada  por  un circuito, demostrando asi el Teorema de Máxima transferencia de Potencia en corriente directa.
 
 #### 2. MARCO TEÓRICO 
 
@@ -100,6 +102,8 @@ Usaremos la Formula:
 •	El reducir un circuito complejo a una fuente y resistencia de Thévenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
 
 •	Al medir todas las potencias mediante las resistencias propuestas se concluyo facilmente que 1kΩ es con quien se obtiene la maxima transferencia de potencia.
+
+• Debido a que la resistencia de carga de 1kΩ es proxima a la resistencia de transferencia de maxima potencia se concluye que el teorema se cumple. 
 
 
 #### 7. BIBLIOGRAFÍA
